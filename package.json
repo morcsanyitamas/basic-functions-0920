@@ -1,0 +1,12 @@
+{
+  "name": "lets-test",
+  "version": "1.0.0",
+  "description": "Simple project to practice test running with Jest",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  },
+  "scripts": {
+    
+    "test:watch": "jest --watchAll"
+  }
+}
